@@ -91,6 +91,6 @@ line vty 0 4
 1. 安裝 **Cisco Packet Tracer**（建議版本 8.0 以上）。
 2. 下載本專案：
    ```bash
-   git clone [https://github.com/你的用戶名/你的專案名稱.git](https://github.com/你的用戶名/你的專案名稱.git)
+   git clone [https://github.com/1121703/Enterprise-Network-Design.git](https://github.com/1121703/Enterprise-Network-Design.git)
    ```
 3. 開啟 `packet_tracer/enterprise_network.pkt` 即可載入完整拓撲與設定進行模擬。
